@@ -1,0 +1,43 @@
+Selector {
+	Property:value;
+}
+
+body {
+       background-image: url(rawpixel-678089-unsplash.jpg);
+       background-size: cover;
+}
+
+li {
+	display: inline-block;
+	color: black;
+	text-align: right;
+}
+
+h2 {
+ font-family: 'Modern Antiqua', cursive;
+ font-size: white;
+}
+
+p{
+	background-color: rgba(170, 180, 190, 0.5);
+	border: 5px solid rgba(170, 180, 190, 0.2);
+	margin-right: 750px;
+	margin-left: 10px;
+}
+
+.intro {
+ color: black;
+ font-family:'Modern Antiqua', cursive;
+ font-size: 2em;
+ border:2px rgba(170, 180, 190, 0);
+ background-color: (170, 180, 190, 0);
+}
+
+.hist {
+     color: black;
+ font-family:'Modern Antiqua', cursive;
+ font-size: 2em;
+ border:2px rgba(170, 180, 190, 0);
+ background-color: (170, 180, 190, 0);
+}
+

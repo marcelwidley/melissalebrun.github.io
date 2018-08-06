@@ -1,0 +1,57 @@
+body {
+	background-image: url(backgroundimage3.jpg);
+	background-size: cover;
+}
+
+li {
+	display: inline-block;
+	color: black;
+	text-align: right;
+}
+
+h1 {
+  font-size: 3em;
+  border-bottom: 2px solid black;
+  width: 400px;
+  text-align: center;
+  border-right: 2px solid black;
+  box-shadow: 4px 4px 5px #888888;
+}
+
+h3 {
+	justify-content: center;
+	font-family: fantasy;
+	font-size: 2em;
+}
+
+p {
+	background: rgba(190, 200, 210, 0.4);
+	border: 1px dashed grey;
+	line-height: 30px;
+	margin: 100px; 
+	font-family: font-family: 'MedievalSharp', cursive;
+	font-size: 150%; 
+}
+
+img {
+   display: inline-block;
+   width: 200px;
+   height: 200px;
+   margin: 20px 20px 20px 20px;
+   border-radius: 20px 20px;
+   transition: all 2s;
+}
+
+img:hover { 
+transform: scale(1.1);
+ }
+
+img {
+	float: left;
+}
+
+footer {
+	clear: both;
+	text-align:  center;
+	font-family: 'Roboto', sans-serif;
+}

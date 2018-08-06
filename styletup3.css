@@ -1,0 +1,27 @@
+Selector {
+	Property:value;
+}
+
+body	{
+	background-image: url(rawpixel-678089-unsplash.jpg);
+	background-size: cover;
+}
+
+h2	{
+	font-family: 'Modern Antiqua', cursive;
+	color: white;
+	text-align: left;
+}
+
+form {
+	background-color: rgba(170, 180, 190, 0.5);
+	margin-right: 800px;
+	margin-left: 10px;
+}
+
+li {
+	display: inline-block;
+	color: black;
+	text-align: left;
+}
+
